@@ -10,6 +10,11 @@ Exported the model.
 
 Tested the model using Python.
 
-## Result
+## Results
 
+#### Teachable Machine:
 <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/dbb4908f-4298-4fdd-acf7-efa70827c5c6" />
+
+#### Python code:
+<img width="607" height="685" alt="image" src="https://github.com/user-attachments/assets/5b2976da-9b4e-4bfd-a812-f462451966a3" />
+
